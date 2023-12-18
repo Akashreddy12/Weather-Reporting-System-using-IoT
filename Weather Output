@@ -2,7 +2,7 @@ CASE 1: Temp=-40.23
            -TOO COLD
         Intensity: 6
            -TOO BRIGHT
-CASE 2: Temp=-10.06
+CASE 2: Temp=10.06
            -COLD
         Intensity: 425
            -MEDIUM LIGHT
